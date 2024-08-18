@@ -1,0 +1,9 @@
+{
+	"name": "udaccitydf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5a7c7d60-de46-4712-b4f2-9b86e79a0b34",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
